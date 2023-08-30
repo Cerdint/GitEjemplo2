@@ -1,3 +1,4 @@
 Edgar Peña Nieto
 localidad = "VIACHA"
 Estado: sin lentes
+Estado Civil: Viudo
